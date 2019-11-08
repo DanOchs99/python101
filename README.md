@@ -2,5 +2,5 @@
 
 Python practice exercises
 
-Repositiory to hold a number of small practice Python scripts
+Repository for a number of small practice Python scripts
 
